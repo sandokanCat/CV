@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /newsletter.html
 
 Sitemap: https://sandokanCat.github.io/CV/sitemap.xml
-Sitemap: https://sandokanCat.github.io/CV/sitemap.xml.gz
+Sitemap: https://sandokanCat.github.io/CV/sitemaps.zip
